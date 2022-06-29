@@ -9,8 +9,8 @@ const saludar2 = ( nombre ) => {
 // sin return 
 const saludar3 = ( nombre ) => `Hola, ${ nombre }`;
 
-console.log( saludar('Goku'));
-console.log( saludar2('Vegeta'));
+console.log(saludar('Goku'));
+console.log(saludar2('Vegeta'));
 console.log(saludar3('Trunk'));
 
 //devolver un objeto sin return
